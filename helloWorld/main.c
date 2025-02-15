@@ -7,8 +7,8 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    printf("Hello, World!");
-    
+int main(void) {
+    char name[] = "Artur";
+    printf("hello my name is %s \nbla bla ", name);
     return 0;
 }
