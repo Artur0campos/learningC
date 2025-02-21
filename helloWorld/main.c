@@ -6,9 +6,9 @@
 //
 
 #include <stdio.h>
-
-int main(void) {
-    char name[] = "Artur";
-    printf("hello my name is %s \nbla bla ", name);
+ 
+int main(void){
+    printf("hello wold!");
+    
     return 0;
 }
